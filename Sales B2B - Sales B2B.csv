@@ -1,0 +1,201 @@
+FU Status,Lead ID,Company,Category,Source,Status,Potential (USD),Prob (%),Date Added,Last Follow-Up,PIC Sales,Region,Lost Reason
+Waiting Reply,BZ-001,OfficeDepot UK,Binders,Website,Open,15000,60,2026-02-20,2026-02-26,Sarah,Europe,-
+Not Contacted,BZ-002,K-12 Supplies,Crayons,Pameran,Open,8200,20,2026-02-27,-,Marcus,North America,-
+Ghosted,BZ-003,Sydney School,Pens,LinkedIn,Stalled,4300,10,2026-02-15,2026-02-24,Elena,Oceania,-
+Followed Up,BZ-004,EduKits Canada,Tapes,Website,Open,12000,40,2026-02-25,2026-02-26,Sarah,North America,-
+Active Chat,BZ-005,Munich Station,Geometry,Referral,Open,24500,80,2026-02-20,2026-02-27,Marcus,Europe,-
+Waiting Reply,BZ-006,Tokyo Art,Craft,Pameran,Open,6100,50,2026-02-22,2026-02-27,Elena,Asia,-
+Followed Up,BZ-007,Papelería Sol,Notes,LinkedIn,Won,18900,100,2026-02-10,2026-02-25,Sarah,LATAM,-
+Not Contacted,BZ-008,Kiwi Office,Binders,Website,Open,3500,10,2026-02-27,-,Marcus,Oceania,-
+Waiting Reply,BZ-009,Staples LatAm,Pens,Pameran,Open,32000,70,2026-02-18,2026-02-26,Elena,LATAM,-
+Active Chat,BZ-010,Seoul Campus,Highlighters,Referral,Open,9800,90,2026-02-20,2026-02-27,Sarah,Asia,-
+Not Contacted,BZ-011,Dubai World,Binders,LinkedIn,Open,21000,20,2026-02-27,-,Marcus,Middle East,-
+Followed Up,BZ-012,Manila Edu,Crayons,Website,Lost,5400,0,2026-02-10,2026-02-23,Elena,Asia,Harga Kompetitor
+Ghosted,BZ-013,Cape Town,Tapes,Pameran,Stalled,7600,15,2026-02-15,2026-02-26,Sarah,Africa,-
+Followed Up,BZ-014,Paris Art,Notes,Referral,Open,11200,50,2026-02-22,2026-02-27,Marcus,Europe,-
+Waiting Reply,BZ-015,Swiss EduGear,Geometry,Website,Open,14000,60,2026-02-24,2026-02-26,Elena,Europe,-
+Followed Up,BZ-016,Toronto Supply,Pens,Pameran,Won,8500,100,2026-02-15,2026-02-22,Sarah,North America,-
+Active Chat,BZ-017,Berlin Books,Craft,LinkedIn,Open,19400,85,2026-02-20,2026-02-27,Marcus,Europe,-
+Not Contacted,BZ-018,Osaka Craft,Tapes,Pameran,Open,5000,10,2026-02-27,-,Elena,Asia,-
+Waiting Reply,BZ-019,Lima Station,Binders,Website,Open,3200,40,2026-02-21,2026-02-25,Sarah,LATAM,-
+Followed Up,BZ-020,Auckland Edu,Crayons,Referral,Open,4800,65,2026-02-23,2026-02-26,Marcus,Oceania,-
+Not Contacted,BZ-021,Bogota Office,Notes,LinkedIn,Open,13500,15,2026-02-27,-,Elena,LATAM,-
+Ghosted,BZ-022,London Paper,Geometry,Pameran,Stalled,9000,10,2026-02-18,2026-02-25,Sarah,Europe,-
+Active Chat,BZ-023,Chicago Mart,Pens,Website,Open,28000,75,2026-02-20,2026-02-26,Marcus,North America,-
+Followed Up,BZ-024,Rome Art,Binders,Referral,Won,16700,100,2026-02-14,2026-02-26,Elena,Europe,-
+Waiting Reply,BZ-025,Madrid Papel,Craft,LinkedIn,Open,7500,55,2026-02-24,2026-02-27,Sarah,Europe,-
+Not Contacted,BZ-026,Santiago Edu,Tapes,Pameran,Open,10000,20,2026-02-27,-,Marcus,LATAM,-
+Active Chat,BZ-027,Jakarta ATK,Notes,Website,Open,25000,90,2026-02-25,2026-02-27,Elena,Asia,-
+Waiting Reply,BZ-028,KL Office,Geometry,Referral,Open,6800,60,2026-02-22,2026-02-26,Sarah,Asia,-
+Not Contacted,BZ-029,Singapore Stat,Pens,LinkedIn,Open,12400,15,2026-02-27,-,Marcus,Asia,-
+Ghosted,BZ-030,Bangkok School,Binders,Pameran,Stalled,5500,5,2026-02-15,2026-02-22,Elena,Asia,-
+Followed Up,BZ-031,Hanoi EduMart,Crayons,Website,Won,8900,100,2026-02-18,2026-02-26,Sarah,Asia,-
+Active Chat,BZ-032,Taipei Art,Craft,Referral,Open,14200,80,2026-02-24,2026-02-26,Marcus,Asia,-
+Not Contacted,BZ-033,Mumbai World,Notes,LinkedIn,Open,35000,25,2026-02-27,-,Elena,Asia,-
+Not Contacted,BZ-034,Delhi Station,Tapes,Pameran,Open,18000,20,2026-02-26,-,Sarah,Asia,-
+Waiting Reply,BZ-035,Riyadh Edu,Geometry,Website,Open,40000,70,2026-02-20,2026-02-25,Marcus,Middle East,-
+Followed Up,BZ-036,Doha Gear,Pens,Referral,Open,22500,60,2026-02-24,2026-02-26,Elena,Middle East,-
+Followed Up,BZ-037,Istanbul Paper,Binders,LinkedIn,Lost,9200,0,2026-02-15,2026-02-23,Sarah,Europe,Ongkir Mahal
+Not Contacted,BZ-038,Athens Art,Crayons,Pameran,Open,7800,10,2026-02-27,-,Marcus,Europe,-
+Ghosted,BZ-039,Warsaw Office,Craft,Website,Stalled,11500,5,2026-02-20,2026-02-26,Elena,Europe,-
+Not Contacted,BZ-040,Budapest Edu,Notes,Referral,Open,6000,15,2026-02-27,-,Sarah,Europe,-
+Active Chat,BZ-041,Vienna Station,Tapes,LinkedIn,Open,13800,85,2026-02-24,2026-02-27,Marcus,Europe,-
+Followed Up,BZ-042,Prague Art,Geometry,Pameran,Won,27000,100,2026-02-18,2026-02-24,Elena,Europe,-
+Not Contacted,BZ-043,Stockholm Off,Pens,Website,Open,16500,20,2026-02-27,-,Sarah,Europe,-
+Waiting Reply,BZ-044,Oslo EduGear,Binders,Referral,Open,19000,65,2026-02-22,2026-02-26,Marcus,Europe,-
+Not Contacted,BZ-045,Helsinki Sch,Crayons,LinkedIn,Open,10500,15,2026-02-27,-,Elena,Europe,-
+Ghosted,BZ-046,Copen Art,Craft,Pameran,Stalled,14800,10,2026-02-15,2026-02-22,Sarah,Europe,-
+Followed Up,BZ-047,Dublin Stat,Notes,Website,Open,8400,55,2026-02-24,2026-02-26,Marcus,Europe,-
+Not Contacted,BZ-048,Lisbon Office,Tapes,Referral,Open,11900,25,2026-02-27,-,Elena,Europe,-
+Active Chat,BZ-049,Amster Edu,Geometry,LinkedIn,Open,26200,80,2026-02-22,2026-02-26,Sarah,Europe,-
+Followed Up,BZ-050,Brussels Art,Pens,Pameran,Won,17500,100,2026-02-18,2026-02-24,Marcus,Europe,-
+Not Contacted,BZ-051,Luxem Office,Binders,Website,Open,9500,15,2026-02-27,-,Elena,Europe,-
+Waiting Reply,BZ-052,Monaco Stat,Crayons,Referral,Open,5800,45,2026-02-24,2026-02-26,Sarah,Europe,-
+Not Contacted,BZ-053,Valletta Edu,Craft,LinkedIn,Open,3900,10,2026-02-27,-,Marcus,Europe,-
+Followed Up,BZ-054,Nicosia Art,Notes,Pameran,Lost,7200,0,2026-02-12,2026-02-21,Elena,Europe,Beli Brand Lain
+Ghosted,BZ-055,Reykjavik Sch,Tapes,Website,Stalled,4500,5,2026-02-20,2026-02-26,Sarah,Europe,-
+Not Contacted,BZ-056,Tallinn Office,Geometry,Referral,Open,6300,15,2026-02-27,-,Marcus,Europe,-
+Followed Up,BZ-057,Riga EduGear,Pens,LinkedIn,Open,8100,50,2026-02-24,2026-02-27,Elena,Europe,-
+Not Contacted,BZ-058,Vilnius Art,Binders,Pameran,Open,5500,20,2026-02-27,-,Sarah,Europe,-
+Active Chat,BZ-059,Minsk Station,Crayons,Website,Open,12600,75,2026-02-22,2026-02-25,Marcus,Europe,-
+Followed Up,BZ-060,Kyiv World,Craft,Referral,Won,18400,100,2026-02-18,2026-02-24,Elena,Europe,-
+Waiting Reply,BZ-061,Bucharest Edu,Notes,LinkedIn,Open,14900,60,2026-02-24,2026-02-26,Sarah,Europe,-
+Not Contacted,BZ-062,Sofia Art,Tapes,Pameran,Open,9700,15,2026-02-27,-,Marcus,Europe,-
+Not Contacted,BZ-063,Belgrade Sch,Geometry,Website,Open,6800,25,2026-02-27,-,Elena,Europe,-
+Ghosted,BZ-064,Zagreb Office,Pens,Referral,Stalled,10200,10,2026-02-15,2026-02-22,Sarah,Europe,-
+Followed Up,BZ-065,Ljubljana Edu,Binders,LinkedIn,Open,7400,45,2026-02-24,2026-02-26,Marcus,Europe,-
+Active Chat,BZ-066,Sarajevo Art,Crayons,Pameran,Open,5900,70,2026-02-23,2026-02-26,Elena,Europe,-
+Not Contacted,BZ-067,Skopje Stat,Craft,Website,Open,4100,15,2026-02-27,-,Sarah,Europe,-
+Not Contacted,BZ-068,Tirana World,Notes,Referral,Open,8500,20,2026-02-27,-,Marcus,Europe,-
+Waiting Reply,BZ-069,Podgorica Edu,Tapes,LinkedIn,Open,3800,50,2026-02-22,2026-02-25,Elena,Europe,-
+Followed Up,BZ-070,Chisinau Gear,Geometry,Pameran,Won,11000,100,2026-02-18,2026-02-23,Sarah,Europe,-
+Followed Up,BZ-071,Tbilisi Art,Pens,Website,Open,6500,65,2026-02-25,2026-02-27,Marcus,Europe,-
+Not Contacted,BZ-072,Yerevan Office,Binders,Referral,Open,7900,15,2026-02-27,-,Elena,Europe,-
+Not Contacted,BZ-073,Baku Edu,Crayons,LinkedIn,Open,15300,25,2026-02-27,-,Sarah,Europe,-
+Ghosted,BZ-074,Astana Stat,Craft,Pameran,Stalled,12800,5,2026-02-18,2026-02-23,Marcus,Asia,-
+Active Chat,BZ-075,Tashkent Art,Notes,Website,Open,18200,80,2026-02-24,2026-02-26,Elena,Asia,-
+Followed Up,BZ-076,Bishkek World,Tapes,Referral,Lost,9400,0,2026-02-20,2026-02-25,Sarah,Asia,Tidak Ada Budget
+Followed Up,BZ-077,Dushanbe Edu,Geometry,LinkedIn,Open,5600,55,2026-02-24,2026-02-27,Marcus,Asia,-
+Not Contacted,BZ-078,Ashgabat Sch,Pens,Pameran,Open,7100,20,2026-02-27,-,Elena,Asia,-
+Not Contacted,BZ-079,Kabul Art,Binders,Website,Open,4500,10,2026-02-27,-,Sarah,Asia,-
+Waiting Reply,BZ-080,Islamabad Off,Crayons,Referral,Open,20500,70,2026-02-24,2026-02-26,Marcus,Asia,-
+Active Chat,BZ-081,Dhaka EduGear,Craft,LinkedIn,Open,16800,85,2026-02-23,2026-02-26,Elena,Asia,-
+Followed Up,BZ-082,Colombo Stat,Notes,Pameran,Won,13200,100,2026-02-18,2026-02-23,Sarah,Asia,-
+Followed Up,BZ-083,Kathmandu Art,Tapes,Website,Open,6900,45,2026-02-25,2026-02-27,Marcus,Asia,-
+Not Contacted,BZ-084,Thimphu World,Geometry,Referral,Open,3500,15,2026-02-27,-,Elena,Asia,-
+Not Contacted,BZ-085,Yangon Edu,Pens,LinkedIn,Open,10600,25,2026-02-27,-,Sarah,Asia,-
+Ghosted,BZ-086,Vientiane Sch,Binders,Pameran,Stalled,5200,10,2026-02-16,2026-02-22,Marcus,Asia,-
+Waiting Reply,BZ-087,Phnom Penh Art,Crayons,Website,Open,11800,60,2026-02-24,2026-02-26,Elena,Asia,-
+Followed Up,BZ-088,Bandar Seri,Craft,Referral,Lost,4000,0,2026-02-20,2026-02-25,Sarah,Asia,MOQ Ketinggian
+Followed Up,BZ-089,Port Moresby,Notes,LinkedIn,Open,8700,50,2026-02-24,2026-02-27,Marcus,Oceania,-
+Not Contacted,BZ-090,Suva Station,Tapes,Pameran,Open,6200,20,2026-02-27,-,Elena,Oceania,-
+Not Contacted,BZ-091,Honiara Art,Geometry,Website,Open,3800,15,2026-02-27,-,Sarah,Oceania,-
+Active Chat,BZ-092,Port Vila Off,Pens,Referral,Open,7500,75,2026-02-24,2026-02-26,Marcus,Oceania,-
+Followed Up,BZ-093,Apia EduGear,Binders,LinkedIn,Won,9300,100,2026-02-20,2026-02-24,Elena,Oceania,-
+Waiting Reply,BZ-094,Nuku'alofa Sch,Crayons,Pameran,Open,4600,55,2026-02-25,2026-02-27,Sarah,Oceania,-
+Not Contacted,BZ-095,Majuro Art,Craft,Website,Open,2900,10,2026-02-27,-,Marcus,Oceania,-
+Not Contacted,BZ-096,Palikir Office,Notes,Referral,Open,3400,20,2026-02-27,-,Elena,Oceania,-
+Ghosted,BZ-097,Yaren Edu,Tapes,LinkedIn,Stalled,1800,5,2026-02-15,2026-02-23,Sarah,Oceania,-
+Followed Up,BZ-098,Funafuti Stat,Geometry,Pameran,Open,2200,40,2026-02-24,2026-02-26,Marcus,Oceania,-
+Active Chat,BZ-099,Tarawa Art,Pens,Website,Open,3100,80,2026-02-24,2026-02-26,Elena,Oceania,-
+Followed Up,BZ-100,Ngerulmud Off,Binders,Referral,Lost,4200,0,2026-02-18,2026-02-24,Sarah,Oceania,Toko Tutup
+Not Contacted,BZ-101,Cairo EduGear,Crayons,LinkedIn,Open,15800,25,2026-02-27,-,Marcus,Africa,-
+Not Contacted,BZ-102,Tripoli School,Craft,Pameran,Open,6700,15,2026-02-27,-,Elena,Africa,-
+Followed Up,BZ-103,Tunis Art,Notes,Website,Open,8900,50,2026-02-25,2026-02-27,Sarah,Africa,-
+Waiting Reply,BZ-104,Algiers Office,Tapes,Referral,Open,11400,65,2026-02-24,2026-02-26,Marcus,Africa,-
+Followed Up,BZ-105,Rabat Edu,Geometry,LinkedIn,Won,17200,100,2026-02-20,2026-02-25,Elena,Africa,-
+Not Contacted,BZ-106,Nouakchott St,Pens,Pameran,Open,5300,20,2026-02-27,-,Sarah,Africa,-
+Ghosted,BZ-107,Dakar Art,Binders,Website,Stalled,9600,10,2026-02-15,2026-02-22,Marcus,Africa,-
+Not Contacted,BZ-108,Banjul World,Crayons,Referral,Open,4800,15,2026-02-27,-,Elena,Africa,-
+Active Chat,BZ-109,Bissau EduGear,Craft,LinkedIn,Open,7100,75,2026-02-24,2026-02-26,Sarah,Africa,-
+Followed Up,BZ-110,Conakry School,Notes,Pameran,Open,10500,45,2026-02-24,2026-02-26,Marcus,Africa,-
+Waiting Reply,BZ-111,Freetown Art,Tapes,Website,Open,6400,55,2026-02-25,2026-02-27,Elena,Africa,-
+Not Contacted,BZ-112,Monrovia Off,Geometry,Referral,Open,5200,20,2026-02-27,-,Sarah,Africa,-
+Not Contacted,BZ-113,Abidjan Edu,Pens,LinkedIn,Open,14600,30,2026-02-27,-,Marcus,Africa,-
+Followed Up,BZ-114,Accra Station,Binders,Pameran,Lost,12300,0,2026-02-18,2026-02-24,Elena,Africa,Kendala Regulasi Impor
+Followed Up,BZ-115,Lome Art,Crayons,Website,Open,8800,60,2026-02-25,2026-02-27,Sarah,Africa,-
+Ghosted,BZ-116,Porto-Novo Off,Craft,Referral,Stalled,4900,5,2026-02-16,2026-02-24,Marcus,Africa,-
+Active Chat,BZ-117,Abuja EduGear,Notes,LinkedIn,Open,28500,85,2026-02-24,2026-02-26,Elena,Africa,-
+Not Contacted,BZ-118,Yaounde School,Tapes,Pameran,Open,9100,15,2026-02-27,-,Sarah,Africa,-
+Waiting Reply,BZ-119,Malabo Art,Geometry,Website,Open,11200,65,2026-02-25,2026-02-27,Marcus,Africa,-
+Not Contacted,BZ-120,Libreville Off,Pens,Referral,Open,7600,20,2026-02-27,-,Elena,Africa,-
+Followed Up,BZ-121,Sao Tome Edu,Binders,LinkedIn,Won,5400,100,2026-02-20,2026-02-25,Sarah,Africa,-
+Followed Up,BZ-122,Brazzaville St,Crayons,Pameran,Open,13400,55,2026-02-24,2026-02-27,Marcus,Africa,-
+Not Contacted,BZ-123,Kinshasa Art,Craft,Website,Open,21500,30,2026-02-27,-,Elena,Africa,-
+Ghosted,BZ-124,Luanda World,Notes,Referral,Stalled,16800,10,2026-02-18,2026-02-23,Sarah,Africa,-
+Waiting Reply,BZ-125,Windhoek Gear,Tapes,LinkedIn,Open,8200,60,2026-02-24,2026-02-26,Marcus,Africa,-
+Not Contacted,BZ-126,Gaborone Sch,Geometry,Pameran,Open,10900,25,2026-02-27,-,Elena,Africa,-
+Active Chat,BZ-127,Maseru Art,Pens,Website,Open,4700,75,2026-02-22,2026-02-25,Sarah,Africa,-
+Not Contacted,BZ-128,Mbabane Office,Binders,Referral,Open,6100,15,2026-02-27,-,Marcus,Africa,-
+Followed Up,BZ-129,Maputo Edu,Crayons,LinkedIn,Open,12500,50,2026-02-24,2026-02-26,Elena,Africa,-
+Followed Up,BZ-130,Antananarivo,Craft,Pameran,Won,19600,100,2026-02-18,2026-02-24,Sarah,Africa,-
+Not Contacted,BZ-131,Port Louis Art,Notes,Website,Open,8300,20,2026-02-27,-,Marcus,Africa,-
+Ghosted,BZ-132,Moroni World,Tapes,Referral,Stalled,3500,5,2026-02-15,2026-02-22,Elena,Africa,-
+Not Contacted,BZ-133,Victoria Gear,Geometry,LinkedIn,Open,11800,25,2026-02-27,-,Sarah,Africa,-
+Waiting Reply,BZ-134,Djibouti Sch,Pens,Pameran,Open,7400,55,2026-02-24,2026-02-26,Marcus,Africa,-
+Not Contacted,BZ-135,Asmara Art,Binders,Website,Open,4200,15,2026-02-27,-,Elena,Africa,-
+Active Chat,BZ-136,Addis Ababa,Crayons,Referral,Open,26000,85,2026-02-22,2026-02-26,Sarah,Africa,-
+Not Contacted,BZ-137,Mogadishu Edu,Craft,LinkedIn,Open,5900,20,2026-02-27,-,Marcus,Africa,-
+Followed Up,BZ-138,Nairobi Stat,Notes,Pameran,Open,18500,65,2026-02-24,2026-02-26,Elena,Africa,-
+Followed Up,BZ-139,Kampala Art,Tapes,Website,Lost,14200,0,2026-02-18,2026-02-24,Sarah,Africa,Supplier China Lebih Murah
+Waiting Reply,BZ-140,Kigali World,Geometry,Referral,Open,9700,60,2026-02-25,2026-02-27,Marcus,Africa,-
+Not Contacted,BZ-141,Bujumbura Gear,Pens,LinkedIn,Open,6800,25,2026-02-27,-,Elena,Africa,-
+Ghosted,BZ-142,Dodoma School,Binders,Pameran,Stalled,11400,10,2026-02-18,2026-02-23,Sarah,Africa,-
+Not Contacted,BZ-143,Lilongwe Art,Crayons,Website,Open,5500,15,2026-02-27,-,Marcus,Africa,-
+Active Chat,BZ-144,Lusaka Office,Craft,Referral,Open,13600,75,2026-02-24,2026-02-27,Elena,Africa,-
+Followed Up,BZ-145,Harare Edu,Notes,LinkedIn,Won,17800,100,2026-02-20,2026-02-25,Sarah,Africa,-
+Not Contacted,BZ-146,San Salvador,Tapes,Pameran,Open,8400,20,2026-02-27,-,Marcus,LATAM,-
+Followed Up,BZ-147,Guatemala City,Geometry,Website,Open,10200,50,2026-02-24,2026-02-26,Elena,LATAM,-
+Not Contacted,BZ-148,Tegucigalpa,Pens,Referral,Open,6900,15,2026-02-27,-,Sarah,LATAM,-
+Waiting Reply,BZ-149,Managua Gear,Binders,LinkedIn,Open,7500,60,2026-02-22,2026-02-25,Marcus,LATAM,-
+Ghosted,BZ-150,San Jose Sch,Crayons,Pameran,Stalled,12600,10,2026-02-15,2026-02-23,Elena,LATAM,-
+Not Contacted,BZ-151,Panama City,Craft,Website,Open,15000,30,2026-02-27,-,Sarah,LATAM,-
+Active Chat,BZ-152,Havana Office,Notes,Referral,Open,9800,70,2026-02-24,2026-02-27,Marcus,LATAM,-
+Not Contacted,BZ-153,Port-au-Prince,Tapes,LinkedIn,Open,5400,15,2026-02-27,-,Elena,LATAM,-
+Followed Up,BZ-154,Santo Domingo,Geometry,Pameran,Open,14500,55,2026-02-24,2026-02-26,Sarah,LATAM,-
+Followed Up,BZ-155,San Juan Art,Pens,Website,Won,19200,100,2026-02-18,2026-02-24,Marcus,LATAM,-
+Not Contacted,BZ-156,Kingston World,Binders,Referral,Open,8100,25,2026-02-27,-,Elena,LATAM,-
+Waiting Reply,BZ-157,Nassau Gear,Crayons,LinkedIn,Open,6300,65,2026-02-23,2026-02-25,Sarah,LATAM,-
+Ghosted,BZ-158,Bridgetown Sch,Craft,Pameran,Stalled,4700,5,2026-02-18,2026-02-23,Marcus,LATAM,-
+Not Contacted,BZ-159,Port of Spain,Notes,Website,Open,11500,20,2026-02-27,-,Elena,LATAM,-
+Active Chat,BZ-160,Caracas Office,Tapes,Referral,Open,22400,80,2026-02-24,2026-02-27,Sarah,LATAM,-
+Not Contacted,BZ-161,Georgetown Edu,Geometry,LinkedIn,Open,7800,25,2026-02-27,-,Marcus,LATAM,-
+Followed Up,BZ-162,Paramaribo,Pens,Pameran,Open,5900,45,2026-02-24,2026-02-26,Elena,LATAM,-
+Followed Up,BZ-163,Cayenne Art,Binders,Website,Lost,13200,0,2026-02-20,2026-02-24,Sarah,LATAM,Cari Barang Premium
+Not Contacted,BZ-164,Quito World,Crayons,Referral,Open,10800,15,2026-02-27,-,Marcus,LATAM,-
+Waiting Reply,BZ-165,La Paz Gear,Craft,LinkedIn,Open,8600,55,2026-02-24,2026-02-26,Elena,LATAM,-
+Not Contacted,BZ-166,Asuncion Sch,Notes,Pameran,Open,6500,20,2026-02-27,-,Sarah,LATAM,-
+Ghosted,BZ-167,Montevideo Art,Tapes,Website,Stalled,14100,10,2026-02-15,2026-02-22,Marcus,LATAM,-
+Active Chat,BZ-168,Buenos Aires,Geometry,Referral,Open,31500,85,2026-02-24,2026-02-27,Elena,LATAM,-
+Not Contacted,BZ-169,Reykjavik Edu,Pens,LinkedIn,Open,9200,25,2026-02-27,-,Sarah,Europe,-
+Followed Up,BZ-170,Torshavn Stat,Binders,Pameran,Won,15400,100,2026-02-20,2026-02-25,Marcus,Europe,-
+Followed Up,BZ-171,Nuuk Art,Crayons,Website,Open,4800,45,2026-02-25,2026-02-27,Elena,Europe,-
+Not Contacted,BZ-172,Douglas World,Craft,Referral,Open,6700,15,2026-02-27,-,Sarah,Europe,-
+Waiting Reply,BZ-173,St Helier Gear,Notes,LinkedIn,Open,11300,60,2026-02-24,2026-02-26,Marcus,Europe,-
+Followed Up,BZ-174,St Peter Port,Tapes,Pameran,Lost,8900,0,2026-02-18,2026-02-24,Elena,Europe,Waktu Kirim Lama
+Not Contacted,BZ-175,Gibraltar Art,Geometry,Website,Open,5100,20,2026-02-27,-,Sarah,Europe,-
+Active Chat,BZ-176,Andorra Office,Pens,Referral,Open,12400,75,2026-02-24,2026-02-27,Marcus,Europe,-
+Not Contacted,BZ-177,San Marino Edu,Binders,LinkedIn,Open,4300,25,2026-02-27,-,Elena,Europe,-
+Ghosted,BZ-178,Vaduz Station,Crayons,Pameran,Stalled,9800,5,2026-02-16,2026-02-23,Sarah,Europe,-
+Followed Up,BZ-179,Monaco Art,Craft,Website,Open,18600,65,2026-02-24,2026-02-26,Marcus,Europe,-
+Not Contacted,BZ-180,Vatican World,Notes,Referral,Open,3500,15,2026-02-27,-,Elena,Europe,-
+Followed Up,BZ-181,Kyiv Gear,Tapes,LinkedIn,Won,24000,100,2026-02-20,2026-02-26,Sarah,Europe,-
+Not Contacted,BZ-182,Chisinau Sch,Geometry,Pameran,Open,7200,25,2026-02-27,-,Marcus,Europe,-
+Waiting Reply,BZ-183,Tbilisi Art,Pens,Website,Open,8500,55,2026-02-24,2026-02-26,Elena,Europe,-
+Active Chat,BZ-184,Baku Office,Binders,Referral,Open,16500,80,2026-02-22,2026-02-25,Sarah,Europe,-
+Not Contacted,BZ-185,Yerevan Edu,Crayons,LinkedIn,Open,6100,20,2026-02-27,-,Marcus,Europe,-
+Ghosted,BZ-186,Astana Stat,Craft,Pameran,Stalled,10400,10,2026-02-18,2026-02-24,Elena,Asia,-
+Followed Up,BZ-187,Tashkent Art,Notes,Website,Open,14800,50,2026-02-24,2026-02-26,Sarah,Asia,-
+Not Contacted,BZ-188,Ashgabat World,Tapes,Referral,Open,8900,25,2026-02-27,-,Marcus,Asia,-
+Followed Up,BZ-189,Bishkek Gear,Geometry,LinkedIn,Won,21500,100,2026-02-20,2026-02-25,Elena,Asia,-
+Not Contacted,BZ-190,Dushanbe Sch,Pens,Pameran,Open,5600,15,2026-02-27,-,Sarah,Asia,-
+Waiting Reply,BZ-191,Male Art,Binders,Website,Open,11200,60,2026-02-24,2026-02-27,Marcus,Asia,-
+Not Contacted,BZ-192,Victoria Off,Crayons,Referral,Open,9300,25,2026-02-27,-,Elena,Africa,-
+Active Chat,BZ-193,Port Louis Edu,Craft,LinkedIn,Open,15700,75,2026-02-24,2026-02-26,Sarah,Africa,-
+Ghosted,BZ-194,Moroni Stat,Notes,Pameran,Stalled,6800,5,2026-02-15,2026-02-22,Marcus,Africa,-
+Not Contacted,BZ-195,Antananarivo,Tapes,Website,Open,13400,20,2026-02-27,-,Elena,Africa,-
+Followed Up,BZ-196,Maputo World,Geometry,Referral,Open,10900,45,2026-02-24,2026-02-26,Sarah,Africa,-
+Not Contacted,BZ-197,Mbabane Gear,Pens,LinkedIn,Open,5200,25,2026-02-27,-,Marcus,Africa,-
+Waiting Reply,BZ-198,Maseru Sch,Binders,Pameran,Open,7500,55,2026-02-23,2026-02-26,Elena,Africa,-
+Followed Up,BZ-199,Gaborone Art,Crayons,Website,Won,18200,100,2026-02-20,2026-02-24,Sarah,Africa,-
+Active Chat,BZ-200,Windhoek Off,Craft,Referral,Open,26500,85,2026-02-24,2026-02-27,Marcus,Africa,-
