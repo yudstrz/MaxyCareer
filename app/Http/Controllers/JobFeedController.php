@@ -147,27 +147,29 @@ class JobFeedController extends Controller
     private function parseKalibrr(string $html): array
     {
         $jobs = [];
-        preg_match_all('/<a[^>]*href="(\/c\/[^"]+\/jobs\/[^"]+)"[^>]*>[\s\S]*?<h2[^>]*>(.*?)<\/h2>/is', $html, $matches, PREG_SET_ORDER);
+        if (preg_match('/<script id="__NEXT_DATA__" type="application\/json">(.*?)<\/script>/is', $html, $next)) {
+            $json = json_decode($next[1], true);
+            $jobNodes = $json['props']['pageProps']['jobs'] ?? [];
 
-        $limit = min(count($matches), 15);
-        for ($i = 0; $i < $limit; $i++) {
-            $match = $matches[$i];
-            $linkPath = $match[1];
-            $cleanTitle = html_entity_decode(strip_tags($match[2]));
+            $limit = min(count($jobNodes), 15);
+            for ($i = 0; $i < $limit; $i++) {
+                $job = $jobNodes[$i];
+                $company = $job['company']['name'] ?? 'Unknown Company';
+                $code = $job['company']['code'] ?? 'co';
+                $id = $job['id'] ?? '';
+                $slug = $job['slug'] ?? 'job';
 
-            $company = "Unknown";
-            if (preg_match('/\/c\/([^\/]+)\//', $linkPath, $compMatch)) {
-                $company = ucwords(str_replace('-', ' ', $compMatch[1]));
+                if ($id) {
+                    $jobs[] = [
+                        'title' => trim($job['name']),
+                        'company' => trim($company),
+                        'link' => "https://www.kalibrr.com/c/{$code}/jobs/{$id}/{$slug}",
+                        'date' => date('d M Y'),
+                        'source' => 'Kalibrr',
+                        'location' => 'Indonesia',
+                    ];
+                }
             }
-
-            $jobs[] = [
-                'title' => trim($cleanTitle),
-                'company' => $company,
-                'link' => "https://www.kalibrr.id" . $linkPath,
-                'date' => date('d M Y'),
-                'source' => 'Kalibrr',
-                'location' => 'Indonesia',
-            ];
         }
         return $jobs;
     }
