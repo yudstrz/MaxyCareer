@@ -18,3 +18,5 @@ Route::post('/generate-cv', [CvAnalysisController::class , 'generate']);
 
 Route::get('/job-matching', [JobMatchingController::class, 'index'])->name('job-matching');
 Route::post('/job-matching/extract', [JobMatchingController::class, 'extract']);
+
+Route::get('/api/job-feeds', [App\Http\Controllers\JobFeedController::class, 'search']);
